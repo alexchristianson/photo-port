@@ -11,7 +11,7 @@ function ContactForm() {
                 </div>
                 <div>
                     <label htmlFor="email">Email address:</label>
-                    <input type="text" name="email" />
+                    <input type="email" name="email" />
                 </div>
                 <div>
                     <label htmlFor="message">Message:</label>
